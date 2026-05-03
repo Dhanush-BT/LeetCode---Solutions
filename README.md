@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Easy/0027-remove-element/) | Easy |
 | [0053-maximum-subarray](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 ## Divide and Conquer
@@ -20,4 +21,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/0540-single-element-in-a-sorted-array/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0027-remove-element](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Easy/0027-remove-element/) | Easy |
 <!---LeetCode Topics End-->
