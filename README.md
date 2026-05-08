@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0974-subarray-sums-divisible-by-k](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Easy/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Easy/1991-find-the-middle-index-in-array/) | Easy |
 ## Divide and Conquer
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Easy/0724-find-pivot-index/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1480-running-sum-of-1d-array](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Easy/1991-find-the-middle-index-in-array/) | Easy |
 <!---LeetCode Topics End-->
