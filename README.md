@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/0540-single-element-in-a-sorted-array/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Easy/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 ## Divide and Conquer
@@ -64,8 +65,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 <!---LeetCode Topics End-->
