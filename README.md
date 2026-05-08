@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0974-subarray-sums-divisible-by-k](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Easy/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -25,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/0069-sqrtx/) | Easy |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,4 +77,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 <!---LeetCode Topics End-->
