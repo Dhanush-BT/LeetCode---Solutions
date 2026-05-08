@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Easy/0014-longest-common-prefix/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0058-length-of-last-word](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Easy/0058-length-of-last-word/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Easy/0387-first-unique-character-in-a-string/) | Easy |
 ## Trie
