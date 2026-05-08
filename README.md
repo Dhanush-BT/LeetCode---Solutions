@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Easy/0027-remove-element/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0151-reverse-words-in-a-string](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/0151-reverse-words-in-a-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Easy/0014-longest-common-prefix/) | Easy |
+| [0151-reverse-words-in-a-string](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/0151-reverse-words-in-a-string/) | Medium |
 | [0387-first-unique-character-in-a-string](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Easy/0387-first-unique-character-in-a-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
