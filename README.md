@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Easy/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [1991-find-the-middle-index-in-array](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Easy/1991-find-the-middle-index-in-array/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,4 +79,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
+| [1991-find-the-middle-index-in-array](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Easy/1991-find-the-middle-index-in-array/) | Easy |
 <!---LeetCode Topics End-->
