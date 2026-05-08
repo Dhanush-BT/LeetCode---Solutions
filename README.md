@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Easy/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Easy/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Easy/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
@@ -59,4 +60,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/0155-min-stack/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
