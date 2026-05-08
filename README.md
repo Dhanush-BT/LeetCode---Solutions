@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0027-remove-element](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Easy/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Easy/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/LeetCode/Medium/0053-maximum-subarray/) | Medium |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/0540-single-element-in-a-sorted-array/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold/) | Medium |
 ## Divide and Conquer
@@ -30,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0027-remove-element](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Easy/0027-remove-element/) | Easy |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
