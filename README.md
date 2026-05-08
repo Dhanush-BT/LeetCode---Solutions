@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Easy/0014-longest-common-prefix/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Easy/0387-first-unique-character-in-a-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -75,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Easy/0001-two-sum/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Easy/0387-first-unique-character-in-a-string/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
 ## Matrix
@@ -90,4 +92,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1480-running-sum-of-1d-array](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Easy/1480-running-sum-of-1d-array/) | Easy |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Easy/1991-find-the-middle-index-in-array/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Easy/0387-first-unique-character-in-a-string/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Easy/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
