@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Easy/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Easy/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Easy/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Easy/0027-remove-element/) | Easy |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Easy/0001-two-sum/) | Easy |
 | [0073-set-matrix-zeroes](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/0073-set-matrix-zeroes/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Dhanush-BT/LeetCode---Solutions/tree/main/Java/Medium/0974-subarray-sums-divisible-by-k/) | Medium |
